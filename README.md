@@ -1,5 +1,10 @@
-# Module_14
+# Machine Learning Trading Bot
 Algorithmic Trading
+
+## Summary
+
+This is an example of a trading bot that is trained using various supervised learning models as well as variations in the training windows and parameters.
+By tweaking the model in various ways, it was able to gain imporved performances, outperforming a buy and hold strategy by the end of the process.
 
 ## First Model
 Here we see the baseline classification report and graph for the SVC instance with SMA windows of 4 and 100, and training data of 3 months.
